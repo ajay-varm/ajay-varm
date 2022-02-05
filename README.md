@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay varma</h1>
 <h3 align="center">Lazy deveopers will search for best ways.</h3>
@@ -42,10 +42,9 @@
   <b>Note:</b> <b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b> -->
 
  
- <br>
- I like to maintain this graph always up 
- </br>
- <p>
+ 
+ <p align="center">
+ <b>I like to maintain this graph always up </b>
  </p>
 
 <a href="https://github.com/ajay-varm/github-readme-activity-graph"><img alt="Ajay Varma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ajay-varm&bg_color=0D111&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
