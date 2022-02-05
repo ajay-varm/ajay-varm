@@ -43,7 +43,7 @@
 
  
  
- <p align="center">
+ <p align="centre">
  
  <b>I like to maintain this graph always up </b>
  </p>
