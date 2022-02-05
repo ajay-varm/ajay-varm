@@ -4,19 +4,17 @@
 <h3 align="center">Lazy deveopers will search for best ways.</h3>
 
 
-## 🙋‍♂️ About Me
+## :v: About Me
 
 - 🔭 I’m currently building **[DSA Course With Problems ](https://github.com/ajay-varm/LearnDSA_with_problems.git)**
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 Diving deep into **web development.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 - **broiamajay@gmail.com**
 
-- 📫 How to reach me **broiamajay@gmail.com**
+- **I play games means a lot of games and always watch youtube.**
 
-- ⚡ Fun fact **I play games means a lot of games and always watch youtube.**
-
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools I know:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -39,15 +37,18 @@
 
   <br/>
     <a href="https://github.com/ajay-varm/github-readme-stats"><img alt="ajay-varm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajay-varm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ajay-varm/github-readme-stats"><img alt="Ajay Varma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-varm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!-- <a href="https://github.com/ajay-varm/github-readme-stats"><img alt="Ajay Varma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-varm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> <b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
+  <b>Note:</b> <b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b> -->
 
+ 
+ <br>
+ I like to maintain this graph always up 
+ </br>
+ <p>
+ </p>
 
-<br/>
-<br/>
-
-<a href="https://github.com/ajay-varm/github-readme-activity-graph"><img alt="Ajay Varma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ajay-varm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ajay-varm/github-readme-activity-graph"><img alt="Ajay Varma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ajay-varm&bg_color=0D111&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
