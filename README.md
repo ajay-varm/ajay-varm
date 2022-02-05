@@ -45,7 +45,7 @@
  
  <p align="center">
  
- <b>I like to maintain this graph always up </b>
+ <b>-------------------I like to maintain this graph always up -------------------</b>
  </p>
 
 <a href="https://github.com/ajay-varm/github-readme-activity-graph"><img alt="Ajay Varma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ajay-varm&bg_color=0D111&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
