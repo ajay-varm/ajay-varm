@@ -1,7 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay varma</h1>
-<h3 align="center">Lazy deveopers will search for best ways.</h3>
 
 
 ## :v: About Me
@@ -9,8 +8,6 @@
 - 🔭 I’m currently building **[DSA Course With Problems ](https://github.com/ajay-varm/LearnDSA_with_problems.git)**
 
 - 🌱 Diving deep into **web development.**
-
-- **I play games means a lot of games and always watch youtube.**
 
 ## 🚀 Languages and Tools I know:
 
