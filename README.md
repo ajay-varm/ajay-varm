@@ -5,7 +5,7 @@
 
 ## :v: About Me
 
-- 🔭 I’m currently building **[DSA Course With Problems ](https://github.com/unGraduation/)**
+- 🔭 I’m currently building **[UnGrduation](https://github.com/unGraduation/)**
 
 - 🌱 Diving deep into **web development.**
 
