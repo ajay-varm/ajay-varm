@@ -1,7 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay varma</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Ajay varma</h1>
 
 ## :v: About Me
 
@@ -38,8 +37,6 @@
   <br/>
   <b>Note:</b> <b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b> -->
 
- 
- 
  <p align="center">
  <b>I like to maintain this graph always up</b>
  </p>
@@ -50,6 +47,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ajay-varma-852a92222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz27QHlyjT1SfMo%2BLbO9VqA%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
