@@ -4,7 +4,7 @@
 
 ## :v: About Me
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Ajay varma</h1>
+<a align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Ajay varma</a>
 
 - I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
 
