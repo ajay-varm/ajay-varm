@@ -4,6 +4,8 @@
 
 ## :v: About Me
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Ajay varma</h1>
+
 - I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
 
 - 🔭 And started **[UnGrduation](https://github.com/unGraduation/)**
