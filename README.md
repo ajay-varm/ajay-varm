@@ -1,10 +1,8 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Ajay varma</h1>
 
 ## :v: About Me
-
-<a align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"/>, I'm Ajay varma</a>
 
 - I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
 
