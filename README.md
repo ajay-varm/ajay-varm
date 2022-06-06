@@ -4,7 +4,9 @@
 
 ## :v: About Me
 
-- 🔭 I’m currently building **[UnGrduation](https://github.com/unGraduation/)**
+- I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
+
+- 🔭 And currently building **[UnGrduation](https://github.com/unGraduation/)**
 
 - 🌱 Diving deep into **web development.**
 
