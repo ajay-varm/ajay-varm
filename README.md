@@ -4,7 +4,7 @@
 
 - I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
 
-- 🔭 And started **[UnGrduation](https://github.com/unGraduation/)**
+- 🔭 And started **[UnGrduation](https://github.com/unGraduation1/)**
 
 - 🌱 Diving deep into **web development.**
 
