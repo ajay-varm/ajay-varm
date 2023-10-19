@@ -2,9 +2,9 @@
 
 ## :v: About Me
 
-- I'm currently building **a workspace** for educational institutes and companies who cannot afford **google workspace**
+- I'm currently building **UnGraduation** for educational institutes who cannot afford **high cost courses**
 
-- 🔭 And started **[UnGrduation](https://github.com/unGraduation1/)**
+- 🔭 So Started **[UnGrduation](https://www.ungraduation.in/)**
 
 - 🌱 Diving deep into **web development.**
 
